@@ -1,5 +1,7 @@
 # Connectoids snRNA-seq analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22847191.svg)](https://doi.org/10.5281/zenodo.22847191)
+
 R scripts for the single-nucleus RNA-seq analyses in:
 
 > Corsi, Sozzi, et al. "Modeling long-range human nigrostriatal connectivity *in vitro* reveals striatal target-dependent maturation of dopamine neurons." 2025.
