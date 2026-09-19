@@ -4,7 +4,7 @@
 
 R scripts for the single-nucleus RNA-seq analyses in:
 
-> Corsi, Sozzi, et al. "Modeling long-range human nigrostriatal connectivity *in vitro* reveals striatal target-dependent maturation of dopamine neurons." 2025.
+> Corsi, Sozzi, et al. "Modeling long-range human nigrostriatal connectivity *in vitro* reveals striatal target-dependent maturation of dopamine neurons."
 
 The study compares two human stem cell-derived models of the nigrostriatal
 pathway: fused **assembloids** (ventral midbrain + striatal organoids fused
